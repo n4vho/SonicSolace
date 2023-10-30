@@ -1,0 +1,6 @@
+- [ ] give user options on what they want
+    - [ ] sentiment analysis on a single album
+        - [ ] enter artist and album name
+    - [ ] sentiment analysis on multiple album
+        - [ ] ask how many albums
+            - [ ] enter artist_N and album_N
