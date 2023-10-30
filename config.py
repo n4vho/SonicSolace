@@ -1,0 +1,1 @@
+MASTER_URL = "http://azlyrics.com"
